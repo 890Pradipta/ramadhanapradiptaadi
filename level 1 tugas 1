@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas 1 Level 1</title>
+</head>
+<body>
+  <p>Nama</p> 
+  <p>Umur</p> 
+  <p>Alamat</p> 
+  <p>Hobi</p> 
+  <p>Asal Universitas dan Jurusan</p> 
+  <p>Kenapa tertarik programming?</p> 
+  <p>Hal yang sudah dipelajari berkaitan dengan programming?</p>
+  <p>Pernah kesulitan ketika belajar programming? 
+  <p>Alasan kenapa ingin ikut Bootcamp Fazztrack?</p> 
+  <p>Alasan kenapa kami harus terima kalian di Bootcamp Fazztrack?</p>
+
+  <script src="tugas1.js"></script>
+</body>
+</html>
+  
